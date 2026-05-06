@@ -59,11 +59,11 @@ Details: View descriptions provided directly by the photographers.
 Responsive View: Resize your window to see the layout adapt from a professional grid to a mobile-friendly single column.
 
 ## Future Roadmap
-[ ] Download Feature: Allow users to save images directly.
+ Download Feature: Allow users to save images directly.
 
-[ ] Category Tags: Quick-search buttons for popular topics (e.g., Animals, Tech, Nature).
+ Category Tags: Quick-search buttons for popular topics (e.g., Animals, Tech, Nature).
 
-[ ] Dark Mode: A toggle for low-light browsing.
+Dark Mode: A toggle for low-light browsing.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
