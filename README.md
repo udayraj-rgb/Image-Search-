@@ -21,9 +21,9 @@ API: Unsplash Developer API.
 
 ## Project Structure
 Plaintext
-├── index.html      # Semantic structure and search components
+├── simple.html      # Semantic structure and search components
 ├── style.css       # Responsive design and modern UI styling
-└── script.js      # Fetch logic, pagination, and dynamic rendering
+└── simple.js      # Fetch logic, pagination, and dynamic rendering
 ## Getting Started
 ### 1. Obtain an API Key
 To run this project, you need an Access Key from Unsplash:
